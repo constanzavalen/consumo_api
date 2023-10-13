@@ -1,8 +1,11 @@
-# React + Vite
+# Proyecto Consumo de APIs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrante:
+- Constanza Valenzuela
 
-Currently, two official plugins are available:
+## Link de la página:
+[App proyecto consumo de APIs](https://constanzavalen.github.io/consumo_api/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Link al video
+
+[Video explicativo](https://youtu.be/l7EW8u5nySE)
